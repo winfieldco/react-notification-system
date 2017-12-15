@@ -1,6 +1,6 @@
 {
   "name": "react-notification-system",
-  "version": "0.2.14-post3",
+  "version": "0.2.14-post4",
   "description": "A React Notification System fully customized",
   "main": "dist/NotificationSystem.js",
   "scripts": {
@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/igorprado/react-notification-system",
   "dependencies": {
+    "object-assign": "^4.0.1"    
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
